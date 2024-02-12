@@ -1,0 +1,37 @@
+.menu-container{
+	width: 80%;
+	margin-left: 10%;
+
+}
+.menu-nav{
+	display: flex;
+	width: 100%;
+	font-family: clearsans_semibold;
+}
+.nav-elem{
+	width: 13%;
+	margin-right: 1%;
+	box-sizing: border-box;
+	padding: 10px;
+	padding-left: 20px;
+	cursor: pointer;
+	text-align: left;
+	background-color: white;
+	border: 1px solid #ddd;
+	border-radius: 2px;
+	font-size: 14px;
+	color: #595959;
+}
+.nav-elem:hover{
+	opacity: 0.6;
+}
+.selected-p{
+	color: white;
+	background-color: #3986EE;
+}
+
+
+
+
+
+
